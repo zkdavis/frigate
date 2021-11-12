@@ -445,6 +445,7 @@ RUN \
         --enable-libaom \
         --extra-libs=-lpthread \
         --enable-rkmpp \
+        --enable-nvmpi \
         --enable-libdrm \
         # --enable-omx \
         # --enable-omx-rpi \
